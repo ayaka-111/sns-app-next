@@ -92,13 +92,13 @@ snsの画像投稿アプリを作成(instagram参考)
 ## プロジェクトのスクリーンショット
 
 トップページ
-<img src="./pubric/top.png" />
+<img src="./public/top.png" />
 
 新規投稿画面
-<img src="./pubric/newPost.png" />
+<img src="./public/newPost.png" />
 
 マイページ
-<img src="./pubric/profile.png" />
+<img src="./public/profile.png" />
 
 検索ページ
-<img src="./pubric/searchPage.png" />
+<img src="./public/searchPage.png" />
